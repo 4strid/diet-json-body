@@ -1,0 +1,36 @@
+{
+  "name": "diet-json-body",
+  "version": "1.0.0",
+  "description": "Adds a little extra gas to Diet's JSON body parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cutejs/diet-json-body.git"
+  },
+  "keywords": [
+    "diet",
+    "dietjs",
+    "diet.js",
+    "json",
+    "body-parser",
+    "body",
+    "middleware"
+  ],
+  "author": "Peter Fesz-Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cutejs/diet-json-body/issues"
+  },
+  "homepage": "https://github.com/cutejs/diet-json-body#readme",
+  "dependencies": {
+    "npm": "^5.7.1"
+  },
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "diet": "^0.16.0",
+    "tape": "^4.9.0"
+  }
+}
