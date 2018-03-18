@@ -16,7 +16,7 @@ npm install diet-json-body
 const server = require('diet')
 const jsonBody = require('diet-json-body')
 
-var app = diet()
+var app = server()
 
 app.header(jsonBody)
 ```
