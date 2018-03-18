@@ -1,6 +1,6 @@
 {
   "name": "diet-json-body",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds a little extra gas to Diet's JSON body parser",
   "main": "index.js",
   "scripts": {
